@@ -1,0 +1,27 @@
+{
+  "name": "resistance-reno-web",
+  "version": "1.0.0",
+  "description": "analysis of whitehouse executive orders",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brienjl/resistance-reno-web"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "jeremy lawrence brien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brienjl/resistance-reno-web"
+  },
+  "homepage": "https://github.com/brienjl/resistance-reno-web#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.1"
+  }
+}
