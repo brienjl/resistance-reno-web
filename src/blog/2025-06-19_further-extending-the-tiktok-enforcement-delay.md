@@ -1,9 +1,9 @@
 ---
-title: further-extending-the-tiktok-enforcement-delay
+title: Further extending the tiktok enforcement delay
 author: Jeremy Brien
 date: 2025-06-19
 tags: ["post", "featured"]
-image: /assets/blog/article-1.jpg
+image: /assets/blog/2025-06-19_tiktok.jpg
 imageAlt: This is a test
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
